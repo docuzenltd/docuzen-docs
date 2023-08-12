@@ -19,8 +19,8 @@ The DocuZen sidebar provides access to the major areas of DocuZen:
 
 </div>
 
-To access each area of DocuZen, simply click on the area's name.&#x20;
+To access each area of DocuZen, simply click the area's name.&#x20;
 
 #### Sign out
 
-To sign out of DocuZen, click on the **Sign out** button at the bottom of the sidebar. Your session will end immediately and you will be automatically redirected to the login page.
+To sign out of DocuZen, click the **Sign out** button at the bottom of the sidebar. Your session will end immediately and you will be automatically redirected to the login page.
