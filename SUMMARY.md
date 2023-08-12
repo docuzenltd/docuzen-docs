@@ -27,7 +27,14 @@
 ## Administration
 
 * [Purchasing DocuZen](administration/purchasing-docuzen.md)
+* [Billing](administration/billing.md)
+* [About resource usage](administration/about-resource-usage.md)
+* [Onboarding checklist](administration/onboarding-checklist.md)
+* [Admin FAQs](administration/admin-faqs.md)
 
 ## Developer resources
 
-* [Using the DocuZen API](developer-resources/using-the-docuzen-api.md)
+* [Using the DocuZen API](developer-resources/using-the-docuzen-api/README.md)
+  * [DocuZen API documentation](developer-resources/using-the-docuzen-api/docuzen-api-documentation.md)
+  * [DocuZen API authentication](developer-resources/using-the-docuzen-api/docuzen-api-authentication.md)
+  * [DocuZen API rate limits](developer-resources/using-the-docuzen-api/docuzen-api-rate-limits.md)

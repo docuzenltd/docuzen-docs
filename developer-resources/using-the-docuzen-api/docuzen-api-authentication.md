@@ -1,0 +1,2 @@
+# DocuZen API authentication
+

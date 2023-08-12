@@ -12,7 +12,7 @@ A DocuZen template includes the design of a dynamic PDF, as well as placeholders
 
 When you're ready, open DocuZen and create your first PDF template.
 
-1. Click **Templates** in the sidebar to open the Templates area
+1. Click **Templates** in the sidebar&#x20;
 2. Click the **New Template** button in the top-right corner of the screen
 
 DocuZen immediately opens the new PDF template in the template editor.
@@ -23,5 +23,5 @@ DocuZen immediately opens the new PDF template in the template editor.
 
 Now that you've created your first PDF template, you're ready to do more with DocuZen!
 
-* You can use the DocuZen API to generate PDFs using your templates. To learn more about using the DocuZen API, visit the [DocuZen API documentation](../developer-resources/using-the-docuzen-api.md).
+* You can use the DocuZen API to generate PDFs using your templates. To learn more about using the DocuZen API, visit the [DocuZen API documentation](../developer-resources/using-the-docuzen-api/).
 * When you're ready to learn more about creating and designing templates, visit [Using templates](../using-templates/templates-overview.md).
