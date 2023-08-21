@@ -1,6 +1,6 @@
 # Creating your first template
 
-DocuZen enables you to design and generate dynamic PDFs. Send an invoice, create tickets, or produce reports. You don't need to write any HTML or worry about the template not rendering as expected. Create a new template and select **Preview**, and the PDF appears right inside your browser.
+_DocuZen Templates_ enable you to design and generate dynamic PDFs. Send an invoice, create tickets, or produce reports. You don't need to write any HTML or worry about the template not rendering as expected. Create a new template and select **Preview**, and the PDF appears right inside your browser.
 
 ### Dynamic PDF generation
 
